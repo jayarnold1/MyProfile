@@ -45,9 +45,9 @@
 
 ### ✨ Fun Facts & Goals
 
-- 🧠 Currently learning: Advanced SQL, MongoDB Aggregation & Backend Development
+- 🧠 Currently learning: kepo sekali antum !
 - 🖼️ Suka bikin desain minimalis, clean, dan estetik
-- 🔥 Target 2025: Launch platform edukasi desain berbasis komunitas!
+- 🔥 Target 2025 - 2026 : Fullstack Web Developer
 - 🏆 Motto hidup: _“Bermimpilah besar, bertindak lebih besar, dan berkontribusilah dalam dunia nyata”_
 
 ---
