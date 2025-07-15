@@ -1,4 +1,4 @@
-<h1 align="center">👋 Konncihiwa, Watashi wa Jay Arnold Lingga desu!</h1>
+<h1 align="center">👋 Konnichiwa, watashi wa Jay Arnold Lingga desu!</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </p>
@@ -25,7 +25,7 @@
 - 🎯 Misi hidup: Membangun perusahaan sebesar Google, Microsoft, dll
 - 💻 Fokus: Python, SQL, MongoDB, Figma
 - 💬 Hobi: Desain, Ngoding, dan Berbagi Ilmu
-- 🌟 Moto: _“Think creatively, build innovatively, grow collaboratively.”_
+- 🌟 Motto: _“Think creatively, build innovatively, grow collaboratively.”_
 
 ---
 
