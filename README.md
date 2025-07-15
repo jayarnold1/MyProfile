@@ -23,7 +23,7 @@
 ### 🚀 About Me
 - 🏫 Mahasiswa Semester 2 Teknik Informatika Universitas Mikroskil
 - 🎯 Misi hidup: Membangun perusahaan sebesar Google, Microsoft, dll
-- 💻 Fokus: Python, SQL, MongoDB, Figma
+- 💻 Fokus: Python, Web, SQL, Design Graphic, UI/UX Design
 - 💬 Hobi: Desain, Ngoding, dan Berbagi Ilmu
 - 🌟 Motto: _“Think creatively, build innovatively, grow collaboratively.”_
 
@@ -45,7 +45,7 @@
 
 ### ✨ Fun Facts & Goals
 
-- 🧠 Currently learning: kepo sekali antum !
+- 🧠 Currently learning: kepo sekali antum :) !
 - 🖼️ Suka bikin desain minimalis, clean, dan estetik
 - 🔥 Target 2025 - 2026 : Fullstack Web Developer
 - 🏆 Motto hidup: _“Bermimpilah besar, bertindak lebih besar, dan berkontribusilah dalam dunia nyata”_
