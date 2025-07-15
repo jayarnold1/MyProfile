@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/jaylingga.id" target="_blank">
+  <a href="https://www.instagram.com/arneliora" target="_blank">
     <img src="https://img.shields.io/badge/@jaylingga.id-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:jaylinggaofficial@gmail.com">
