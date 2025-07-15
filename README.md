@@ -21,8 +21,8 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 ### 🚀 About Me
-- 🏫 Mahasiswa @ Universitas Mikroskil
-- 🎯 Misi hidup: Membentuk pelatihan desain grafis untuk mencerdaskan generasi muda
+- 🏫 Mahasiswa Semester 2 Teknik Informatika Universitas Mikroskil
+- 🎯 Misi hidup: Membangun perusahaan sebesar Google, Microsoft, dll
 - 💻 Fokus: Python, SQL, MongoDB, Figma
 - 💬 Hobi: Desain, Ngoding, dan Berbagi Ilmu
 - 🌟 Moto: _“Think creatively, build innovatively, grow collaboratively.”_
