@@ -40,17 +40,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
-
-
-### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayarnoldlingga&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayarnoldlingga&theme=tokyonight" width="47%"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnoldlingga&layout=compact&theme=tokyonight" width="40%" />
-</div>
 
 ---
 
