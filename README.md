@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Jay Arnold Lingga!</h1>
+<h1 align="center">👋 Konncihiwa, Watashi wa Jay Arnold Lingga desu!</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </p>
